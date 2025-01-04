@@ -8,7 +8,7 @@ This repository demonstrates a scalable system using Node.js, MongoDB, and Bull 
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/vivekkumar9919/MultiServer
 cd multiserver
 ```
 
