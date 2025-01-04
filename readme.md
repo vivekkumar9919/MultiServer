@@ -96,5 +96,4 @@ Use the debugger to monitor server and worker activity, ensuring all components 
 
 ---
 
-## License
-This project is licensed under the MIT License.
+
