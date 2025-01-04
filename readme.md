@@ -47,7 +47,7 @@ multiserver/
 ├── jobs/
 │   ├── processor/
 │   │   └── worker1Processor.js   # Job processing logic for worker1
-|   |   └── worker2Processor.js   # Job processing logic for worker1
+|   |   └── worker2Processor.js   # Job processing logic for worker2
 │   ├── worker/
 │   │   └── worker1.js        # Job definition for worker1 queue
 │   │   └── worker1.js        # Job definition for worker2 queue
