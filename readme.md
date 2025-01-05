@@ -3,7 +3,7 @@
 This repository demonstrates a scalable system using Node.js, MongoDB, and Bull jobs. The system includes a main server and worker processes for processing time-consuming tasks asynchronously.
 
 ---
-# Why Multi-Server Architecture is Important for a Scalable Node.js System
+## Why Multi-Server Architecture is Important for a Scalable Node.js System
 
 In this document, we will discuss the importance of adopting a multi-server architecture for a scalable Node.js system and the disadvantages of relying solely on a single main server. We will also provide real-life analogies to make these concepts easier to understand.
 
